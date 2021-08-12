@@ -2068,7 +2068,7 @@ input, select, textarea {
 		position: relative;
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
-		padding: 5em 0 4em 0;
+		padding: 3em 0 4em 0;
 		text-align: center;
 	}
 
@@ -2083,7 +2083,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		margin: 2.5em 0 0 0;
+		margin: 2.0em 0 0 0;
 	}
 
 		#nav > ul {
@@ -2173,18 +2173,18 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #FFF url("https://lh3.googleusercontent.com/proxy/gRrNOrNug_GVTi8e0tOHzUH8xUbxoV0ALBR40G6cLFXwRv3Gi8yEQgam0OYDbMWb83cpheFQSocs090owWgj4tZK7dQtX66uy4RkNGdebwRJw12BkYc");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
 		padding: 8em 0;
-		margin: 4em 0 0 0;
+		margin: 2em 0 0 0;
 	}
 
 		#banner header {
-			background-color: rgba(34, 30, 31, 0.98);
+			background-color: rgb(0 0 0 / 68%);
 			display: inline-block;
 			padding: 2.5em 5em;
 			border-radius: 5px;
@@ -2198,7 +2198,7 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #fff			;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
