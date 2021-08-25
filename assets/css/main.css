@@ -2177,7 +2177,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #FFF url("https://lh3.googleusercontent.com/proxy/gRrNOrNug_GVTi8e0tOHzUH8xUbxoV0ALBR40G6cLFXwRv3Gi8yEQgam0OYDbMWb83cpheFQSocs090owWgj4tZK7dQtX66uy4RkNGdebwRJw12BkYc");
+		background: #FFF url(/images/home.gif);
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
